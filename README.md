@@ -1,7 +1,6 @@
 # Aplikasi Chat AI
 
-Aplikasi **Chat AI Moderen** dengan tampilan modern serta dukungan upload gambar dan file.  
-Tidak membutuhkan database maupun biaya langganan — cukup jalankan di server PHP atau bahkan langsung di laptop/komputer Anda.  
+Aplikasi **Chat AI Moderen** dengan tampilan moderen yang tidak membutuhkan database maupun biaya langganan 
 
 ---
 
