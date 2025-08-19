@@ -30,4 +30,4 @@ Rp60.000 ( Permanent Open Source )
 
 ---
 
-Dikembangkan oleh **Rolandino** © 2025
+©2025
