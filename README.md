@@ -26,7 +26,7 @@ Aplikasi **Chat AI Moderen** dengan tampilan moderen yang tidak membutuhkan data
 ---
 
 ## Harga 💰
-Rp60.000 ( Permanent Open Source )
+Rp25.000 ( Permanent Open Source )
 
 ---
 
