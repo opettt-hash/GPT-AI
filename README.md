@@ -2,6 +2,7 @@
 
 Aplikasi **Chat AI Moderen** dengan tampilan moderen yang tidak membutuhkan database maupun biaya langganan apapun ( limited )
 
+<img src="Ai.jpg" alt="IP Result" width="80%">
 ---
 
 ## Fitur Utama ✨
