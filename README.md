@@ -1,6 +1,6 @@
 # Aplikasi Chat AI
 
-Aplikasi **Chat AI Moderen** dengan tampilan moderen yang tidak membutuhkan database maupun biaya langganan 
+Aplikasi **Chat AI Moderen** dengan tampilan moderen yang tidak membutuhkan database maupun biaya langganan apapun ( limited )
 
 ---
 
